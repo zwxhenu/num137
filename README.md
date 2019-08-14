@@ -1,3 +1,18 @@
+# 2019年8月14日题目
+# 好友137
+ 
+    有一个数据表，记录数至少为137w条，字段为：uid、friend_uid，表示谁和谁是好友关系。
+  
+    如果A有1个以上的好友，就构成一个以A为中心的好友圈，例如：A-B、B-C、D-E、E-F，这4对关系中存在两个好友圈。
+
+    如果B与A的好友圈重叠，那么就只算一个好友圈。
+
+    求出这些好友关系中有多少个好友圈？？？
+
+
+
+
+# 2019年8月13日题目
 # num137
 A repo from the question: find the largest 1000 from the 13.7 billion out-of-order positive integers
 
